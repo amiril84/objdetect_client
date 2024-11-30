@@ -2,6 +2,10 @@
 
 A React TypeScript application that provides a user interface for object detection in images.
 
+Server repo url : https://github.com/amiril84/objdetect_server/blob/master/README.md
+
+Live Web URL : https://objdetectclient-production.up.railway.app/
+
 ## Features
 
 - Modern UI built with React and TypeScript
