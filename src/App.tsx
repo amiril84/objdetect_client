@@ -22,7 +22,7 @@ function App() {
     });
 
     try {
-      const response = await axios.post('http://localhost:3001/api/analyze', formData, {
+      const response = await axios.post('https://objdetectserver-production.up.railway.app/api/analyze', formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
